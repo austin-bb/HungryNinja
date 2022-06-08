@@ -1,0 +1,15 @@
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.csproj.AssemblyReference.cache
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.AssemblyInfoInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.AssemblyInfo.cs
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.deps.json
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.runtimeconfig.json
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.dll
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/bin/Debug/net6.0/HungryNinja.pdb
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.dll
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/refint/HungryNinja.dll
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.pdb
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/HungryNinja.genruntimeconfig.cache
+/Users/austin/Desktop/C#/Fundamentals/OOP/HungryNinja/obj/Debug/net6.0/ref/HungryNinja.dll
